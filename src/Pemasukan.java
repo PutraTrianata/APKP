@@ -1,9 +1,5 @@
-class Pemasukan {
-    String deskripsi;
-    int jumlah;
-
-    Pemasukan(String deskripsi, int jumlah) {
-        this.deskripsi = deskripsi;
-        this.jumlah = jumlah;
+class Pemasukan extends Transaksi {
+    public Pemasukan(String deskripsi, int jumlah) {
+        super(deskripsi, jumlah);
     }
 }
