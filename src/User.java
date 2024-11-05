@@ -17,3 +17,8 @@ class User {
         return this.password.equals(password);
     }
 
+    public CatatanKeuangan getCatatanKeuangan() {
+        return catatanKeuangan;
+    }
+}
+
