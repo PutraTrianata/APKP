@@ -3,3 +3,4 @@ class Pemasukan extends Transaksi {
         super(deskripsi, jumlah);
     }
 }
+HCV
