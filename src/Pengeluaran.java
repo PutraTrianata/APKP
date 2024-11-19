@@ -3,3 +3,4 @@ class Pengeluaran extends Transaksi {
         super(deskripsi, jumlah);
     }
 }
+ggd
