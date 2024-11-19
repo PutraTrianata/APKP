@@ -15,4 +15,3 @@ class Transaksi {
         return jumlah;
     }
 }
-GXG
